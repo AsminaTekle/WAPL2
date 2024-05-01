@@ -14,7 +14,7 @@ h1{
 h2{
     color :coral
 }
-#myClass{
+.myClass{
     text-decoration: none;
     font-family: monospace;
     color : brown
